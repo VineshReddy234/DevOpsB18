@@ -1,0 +1,5 @@
+log1
+log2
+*.logs
+*.tmp
+*.cache
